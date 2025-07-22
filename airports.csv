@@ -1,5 +1,256 @@
-KEF,Reykjavík,Iceland,Europe
 ABQ,Albuquerque,"United States","North America"
+ADL,Adelaide,Australia,Oceania
+ADW,"Camp Springs","United States","North America"
+AEP,"Buenos Aires",Argentina,"South America"
+AER,Sochi,Russia,Europe
+AGP,Málaga,Spain,Europe
+AGT,"Ciudad del Este",Paraguay,"South America"
+AKL,Auckland,"New Zealand",Oceania
+ALC,Alicante,Spain,Europe
+AMS,Amsterdam,Netherlands,Europe
+ANC,Anchorage,"United States","North America"
+ARN,Stockholm,Sweden,Europe
+ASU,Asunción,Paraguay,"South America"
+ATH,Spata-Artemida,Greece,Europe
+ATL,Atlanta,"United States","North America"
+AUA,Oranjestad,Aruba,"North America"
+AUS,Austin,"United States","North America"
+BCN,Barcelona,Spain,Europe
+BDL,Hartford,"United States","North America"
+BDS,Brindisi,Italy,Europe
+BEG,Belgrade,Serbia,Europe
+BEL,Belém,Brazil,"South America"
+BER,Berlin,Germany,Europe
+BFS,Belfast,"United Kingdom",Europe
+BGY,"Orio al Serio (BG)",Italy,Europe
+BLA,Barcelona,Venezuela,"South America"
+BLL,Billund,Denmark,Europe
+BLQ,Bologna,Italy,Europe
+BNA,Nashville,"United States","North America"
+BNE,Brisbane,Australia,Oceania
+BOD,Bordeaux/Mérignac,France,Europe
+BOG,Bogota,Colombia,"South America"
+BOJ,Burgas,Bulgaria,Europe
+BON,Kralendijk,"Caribbean Netherlands","North America"
+BOS,Boston,"United States","North America"
+BPS,"Porto Seguro",Brazil,"South America"
+BRI,Bari,Italy,Europe
+BRU,Zaventem,Belgium,Europe
+BSB,Brasília,Brazil,"South America"
+BSL,Saint-Louis,France,Europe
+BTS,Bratislava,Slovakia,Europe
+BUD,Budapest,Hungary,Europe
+BUF,Buffalo,"United States","North America"
+BWI,Baltimore,"United States","North America"
+BZE,"Belize City",Belize,"North America"
+CAG,Cagliari,Italy,Europe
+CAY,Matoury,"French Guiana","South America"
+CCS,Maiquetía,Venezuela,"South America"
+CGN,"Köln (Cologne)",Germany,Europe
+CHC,Christchurch,"New Zealand",Oceania
+CLE,Cleveland,"United States","North America"
+CLT,Charlotte,"United States","North America"
+CMH,Columbus,"United States","North America"
+CNF,"Belo Horizonte",Brazil,"South America"
+CPH,Copenhagen,Denmark,Europe
+CTA,Catania,Italy,Europe
+CUN,Cancún,Mexico,"North America"
+CUR,Willemstad,Curaçao,"North America"
+CUZ,Cusco,Peru,"South America"
+CVG,"Cincinnati / Covington","United States","North America"
+CZM,Cozumel,Mexico,"North America"
+DCA,Washington,"United States","North America"
+DEN,Denver,"United States","North America"
+DFW,"Dallas-Fort Worth","United States","North America"
+DGO,Durango,Mexico,"North America"
+DME,Moscow,Russia,Europe
+DRW,Darwin,Australia,Oceania
+DTW,Detroit,"United States","North America"
+DUB,Dublin,Ireland,Europe
+DUS,Düsseldorf,Germany,Europe
+EDI,Edinburgh,"United Kingdom",Europe
+EIN,Eindhoven,Netherlands,Europe
+ENO,Encarnación,Paraguay,"South America"
+ESG,"Mariscal Estigarribia",Paraguay,"South America"
+EWR,Newark,"United States","North America"
+EZE,"Buenos Aires (Ezeiza)",Argentina,"South America"
+FAO,Faro,Portugal,Europe
+FCO,Rome,Italy,Europe
+FDF,Fort-de-France,Martinique,"North America"
+FLL,"Fort Lauderdale","United States","North America"
+FLN,Florianópolis,Brazil,"South America"
+FNC,Funchal,Portugal,Europe
+FOR,Fortaleza,Brazil,"South America"
+FRA,"Frankfurt am Main",Germany,Europe
+GCM,"George Town","Cayman Islands","North America"
+GDL,Guadalajara,Mexico,"North America"
+GDN,Gdańsk,Poland,Europe
+GIB,Gibraltar,Gibraltar,Europe
+GIG,"Rio De Janeiro",Brazil,"South America"
+GLA,Glasgow,"United Kingdom",Europe
+GOA,"Genova (GE)",Italy,Europe
+GOT,Göteborg,Sweden,Europe
+GRU,"São Paulo",Brazil,"South America"
+GUA,"Guatemala City",Guatemala,"North America"
+GUM,Hagåtña,Guam,Oceania
+GVA,Geneva,Switzerland,Europe
+GYE,Guayaquil,Ecuador,"South America"
+HAJ,Hannover,Germany,Europe
+HAM,Hamburg,Germany,Europe
+HAV,Havana,Cuba,"North America"
+HEL,"Helsinki (Vantaa)",Finland,Europe
+HER,Heraklion,Greece,Europe
+HIR,Honiara,"Solomon Islands",Oceania
+IAD,Dulles,"United States","North America"
+IAH,Houston,"United States","North America"
+IBZ,"Ibiza (Eivissa)",Spain,Europe
+IND,Indianapolis,"United States","North America"
+JAX,Jacksonville,"United States","North America"
+JFK,"New York","United States","North America"
+KBP,Boryspil,Ukraine,Europe
+KEF,Reykjavík,Iceland,Europe
+KIN,Kingston,Jamaica,"North America"
+KJA,Krasnoyarsk,Russia,Europe
+KRK,Balice,Poland,Europe
+KUF,Samara,Russia,Europe
+LAS,"Las Vegas","United States","North America"
+LAX,"Los Angeles","United States","North America"
+LED,"St. Petersburg",Russia,Europe
+LEJ,Schkeuditz,Germany,Europe
+LFLL,"Colombier-Saugnieu,France,Europe
+LFML,"Marignane,France,Europe
+LFMN,"Nice,France,Europe
+LFPG,"Paris (Roissy-en-France,France,Europe
+LFPO,"Paris (Orly,France,Europe
+LGA,"New York","United States","North America"
+LGW,London,"United Kingdom",Europe
+LHR,London,"United Kingdom",Europe
+LIM,Lima,Peru,"South America"
+LIR,Liberia,"Costa Rica","North America"
+LIS,Lisbon,Portugal,Europe
+LJU,"Zgornji Brnik",Slovenia,Europe
+LRM,"La Romana","Dominican Republic","North America"
+LTFM,"Arnavutköy,Turkey,Europe
+LUX,Luxembourg,Luxembourg,Europe
+LWO,Lviv,Ukraine,Europe
+MAD,Madrid,Spain,Europe
+MAO,Manaus,Brazil,"South America"
+MCI,"Kansas City","United States","North America"
+MCO,Orlando,"United States","North America"
+MDW,Chicago,"United States","North America"
+MEL,Melbourne,Australia,Oceania
+MEM,Memphis,"United States","North America"
+MEX,"Ciudad de México",Mexico,"North America"
+MIA,Miami,"United States","North America"
+MID,Mérida,Mexico,"North America"
+MKE,Milwaukee,"United States","North America"
+MLA,Valletta,Malta,Europe
+MSP,Minneapolis,"United States","North America"
+MSQ,Minsk,Belarus,Europe
+MSY,"New Orleans","United States","North America"
+MTY,Monterrey,Mexico,"North America"
+MUC,Munich,Germany,Europe
+MVD,"Ciudad de la Costa",Uruguay,"South America"
+MXP,"Ferno (VA)",Italy,Europe
+MZT,Mazatlàn,Mexico,"North America"
+NAP,Napoli,Italy,Europe
+NAS,Nassau,Bahamas,"North America"
+NLU,"Mexico City",Mexico,"North America"
+NUE,Nuremberg,Germany,Europe
+OAK,Oakland,"United States","North America"
+OGG,Kahului,"United States","North America"
+OKC,"Oklahoma City","United States","North America"
+OMA,Omaha,"United States","North America"
+ONT,Ontario,"United States","North America"
+OPO,Porto,Portugal,Europe
+ORD,Chicago,"United States","North America"
+ORF,Norfolk,"United States","North America"
+OTP,Otopeni,Romania,Europe
+OVB,Novosibirsk,Russia,Europe
+PAP,Port-au-Prince,Haiti,"North America"
+PBI,"West Palm Beach","United States","North America"
+PBM,Zandery,Suriname,"South America"
+PDL,"Ponta Delgada",Portugal,Europe
+PDX,Portland,"United States","North America"
+PER,Perth,Australia,Oceania
+PHL,Philadelphia,"United States","North America"
+PHNL,"Honolulu,"United States","North America"
+PHX,Phoenix,"United States","North America"
+PIT,Pittsburgh,"United States","North America"
+PLS,Providenciales,"Turks and Caicos Islands","North America"
+PMI,"Palma de Mallorca",Spain,Europe
+PMO,Palermo,Italy,Europe
+POM,"Port Moresby","Papua New Guinea",Oceania
+PPT,Papeete,"French Polynesia",Oceania
+PRG,Prague,"Czech Republic",Europe
+PSA,"Pisa (PI)",Italy,Europe
+PTP,Pointe-à-Pitre,Guadeloupe,"North America"
+PTY,Tocumen,Panama,"North America"
+PUJ,"Punta Cana","Dominican Republic","North America"
+PVD,Warwick,"United States","North America"
+PVR,"Puerto Vallarta",Mexico,"North America"
+PWM,Portland,"United States","North America"
+RDU,Raleigh/Durham,"United States","North America"
+RIC,Richmond,"United States","North America"
+RIX,Riga,Latvia,Europe
+RNO,Reno,"United States","North America"
+ROV,Rostov-on-Don,Russia,Europe
+RSW,"Fort Myers","United States","North America"
+SAL,"San Salvador (San Luis Talpa)","El Salvador","North America"
+SAN,"San Diego","United States","North America"
+SAT,"San Antonio","United States","North America"
+SAV,Savannah,"United States","North America"
+SCL,Santiago,Chile,"South America"
+SCQ,"Santiago de Compostela",Spain,Europe
+SDF,Louisville,"United States","North America"
+SDQ,"Santo Domingo","Dominican Republic","North America"
+SEA,Seattle,"United States","North America"
+SFB,Orlando,"United States","North America"
+SFO,"San Francisco","United States","North America"
+SJC,"San Jose","United States","North America"
+SJD,"San José del Cabo",Mexico,"North America"
+SJJ,Sarajevo,"Bosnia and Herzegovina",Europe
+SJO,"San José (Alajuela)","Costa Rica","North America"
+SJU,"San Juan","Puerto Rico","North America"
+SKG,Thessaloniki,Greece,Europe
+SKP,Ilinden,"North Macedonia",Europe
+SLC,"Salt Lake City","United States","North America"
+SMF,Sacramento,"United States","North America"
+SNA,"Santa Ana","United States","North America"
+SNN,Shannon,Ireland,Europe
+SOF,Sofia,Bulgaria,Europe
+SRQ,Sarasota/Bradenton,"United States","North America"
+SSA,Salvador,Brazil,"South America"
+STL,"St Louis","United States","North America"
+STN,London,"United Kingdom",Europe
+STR,Stuttgart,Germany,Europe
+SVO,Moscow,Russia,Europe
+SXM,"Sint Maarten","Sint Maarten","North America"
+SYD,"Sydney (Mascot)",Australia,Oceania
+SYR,Syracuse,"United States","North America"
+TGD,Podgorica,Montenegro,Europe
+TIA,Rinas,Albania,Europe
+TIJ,Tijuana,Mexico,"North America"
+TLL,Tallinn,Estonia,Europe
+TLS,Toulouse/Blagnac,France,Europe
+TPA,Tampa,"United States","North America"
+TRN,"Caselle Torinese (TO)",Italy,Europe
+TUL,Tulsa,"United States","North America"
+UFA,Ufa,Russia,Europe
+UIO,Quito,Ecuador,"South America"
+UVF,"Vieux Fort","Saint Lucia","North America"
+VAR,Varna,Bulgaria,Europe
+VCE,"Venezia (VE)",Italy,Europe
+VIE,Vienna,Austria,Europe
+VIX,Vitória,Brazil,"South America"
+VKO,Moscow,Russia,Europe
+VLI,"Port Vila",Vanuatu,Oceania
+VNO,Vilnius,Lithuania,Europe
+VRA,Matanzas,Cuba,"North America"
+VRN,"Caselle (VR)",Italy,Europe
+VVI,"Santa Cruz",Bolivia,"South America"
+WAW,Warsaw,Poland,Europe
+WLG,Wellington,"New Zealand",Oceania
 YEG,Edmonton,Canada,"North America"
 YHZ,Halifax,Canada,"North America"
 YOW,Ottawa,Canada,"North America"
@@ -10,261 +261,6 @@ YWG,Winnipeg,Canada,"North America"
 YYC,Calgary,Canada,"North America"
 YYT,"St. John's",Canada,"North America"
 YYZ,Toronto,Canada,"North America"
-BRU,Zaventem,Belgium,Europe
-FRA,"Frankfurt am Main",Germany,Europe
-HAM,Hamburg,Germany,Europe
-CGN,"Köln (Cologne)",Germany,Europe
-DUS,Düsseldorf,Germany,Europe
-MUC,Munich,Germany,Europe
-NUE,Nuremberg,Germany,Europe
-LEJ,Schkeuditz,Germany,Europe
-STR,Stuttgart,Germany,Europe
-HAJ,Hannover,Germany,Europe
-TLL,Tallinn,Estonia,Europe
-HEL,"Helsinki (Vantaa)",Finland,Europe
-BFS,Belfast,"United Kingdom",Europe
-EGBB,"Birmingham,"United Kingdom",Europe
-EGCC,"Manchester,"United Kingdom",Europe
-EGGW,"Luton,"United Kingdom",Europe
-LGW,London,"United Kingdom",Europe
-LHR,London,"United Kingdom",Europe
-GLA,Glasgow,"United Kingdom",Europe
-EDI,Edinburgh,"United Kingdom",Europe
-STN,London,"United Kingdom",Europe
-AMS,Amsterdam,Netherlands,Europe
-EIN,Eindhoven,Netherlands,Europe
-DUB,Dublin,Ireland,Europe
-SNN,Shannon,Ireland,Europe
-BLL,Billund,Denmark,Europe
-CPH,Copenhagen,Denmark,Europe
-LUX,Luxembourg,Luxembourg,Europe
-GDN,Gdańsk,Poland,Europe
-KRK,Balice,Poland,Europe
-WAW,Warsaw,Poland,Europe
-DME,Moscow,Russia,Europe
-SVO,Moscow,Russia,Europe
-VKO,Moscow,Russia,Europe
-UFA,Ufa,Russia,Europe
-KUF,Samara,Russia,Europe
-GOT,Göteborg,Sweden,Europe
-BNE,Brisbane,Australia,Oceania
-ARN,Stockholm,Sweden,Europe
-MEL,Melbourne,Australia,Oceania
-ADL,Adelaide,Australia,Oceania
-DRW,Darwin,Australia,Oceania
-PER,Perth,Australia,Oceania
-SYD,"Sydney (Mascot)",Australia,Oceania
-RIX,Riga,Latvia,Europe
-VNO,Vilnius,Lithuania,Europe
-ENO,Encarnación,Paraguay,"South America"
-HIR,Honiara,"Solomon Islands",Oceania
-BER,Berlin,Germany,Europe
-UIO,Quito,Ecuador,"South America"
-LTFM,"Arnavutköy,Turkey,Europe
-NLU,"Mexico City",Mexico,"North America"
-ROV,Rostov-on-Don,Russia,Europe
-ADW,"Camp Springs","United States","North America"
-ATL,Atlanta,"United States","North America"
-AUS,Austin,"United States","North America"
-BDL,Hartford,"United States","North America"
-BNA,Nashville,"United States","North America"
-BOS,Boston,"United States","North America"
-BUF,Buffalo,"United States","North America"
-BWI,Baltimore,"United States","North America"
-CLE,Cleveland,"United States","North America"
-CLT,Charlotte,"United States","North America"
-CMH,Columbus,"United States","North America"
-CVG,"Cincinnati / Covington","United States","North America"
-DCA,Washington,"United States","North America"
-DEN,Denver,"United States","North America"
-DFW,"Dallas-Fort Worth","United States","North America"
-DTW,Detroit,"United States","North America"
-EWR,Newark,"United States","North America"
-FLL,"Fort Lauderdale","United States","North America"
-IAD,Dulles,"United States","North America"
-IAH,Houston,"United States","North America"
-IND,Indianapolis,"United States","North America"
-JAX,Jacksonville,"United States","North America"
-JFK,"New York","United States","North America"
-LAS,"Las Vegas","United States","North America"
-LAX,"Los Angeles","United States","North America"
-LGA,"New York","United States","North America"
-MCI,"Kansas City","United States","North America"
-MCO,Orlando,"United States","North America"
-MDW,Chicago,"United States","North America"
-MEM,Memphis,"United States","North America"
-MIA,Miami,"United States","North America"
-MKE,Milwaukee,"United States","North America"
-MSP,Minneapolis,"United States","North America"
-MSY,"New Orleans","United States","North America"
-OAK,Oakland,"United States","North America"
-OKC,"Oklahoma City","United States","North America"
-OMA,Omaha,"United States","North America"
-ONT,Ontario,"United States","North America"
-ORD,Chicago,"United States","North America"
-ORF,Norfolk,"United States","North America"
-PBI,"West Palm Beach","United States","North America"
-PDX,Portland,"United States","North America"
-PHL,Philadelphia,"United States","North America"
-PHX,Phoenix,"United States","North America"
-PIT,Pittsburgh,"United States","North America"
-PVD,Warwick,"United States","North America"
-PWM,Portland,"United States","North America"
-RDU,Raleigh/Durham,"United States","North America"
-RIC,Richmond,"United States","North America"
-RNO,Reno,"United States","North America"
-RSW,"Fort Myers","United States","North America"
-SAN,"San Diego","United States","North America"
-SAT,"San Antonio","United States","North America"
-SAV,Savannah,"United States","North America"
-SDF,Louisville,"United States","North America"
-SEA,Seattle,"United States","North America"
-SFB,Orlando,"United States","North America"
-SFO,"San Francisco","United States","North America"
-SJC,"San Jose","United States","North America"
-SLC,"Salt Lake City","United States","North America"
-SMF,Sacramento,"United States","North America"
-SNA,"Santa Ana","United States","North America"
-SRQ,Sarasota/Bradenton,"United States","North America"
-STL,"St Louis","United States","North America"
-SYR,Syracuse,"United States","North America"
-TPA,Tampa,"United States","North America"
-TUL,Tulsa,"United States","North America"
-TIA,Rinas,Albania,Europe
-BOJ,Burgas,Bulgaria,Europe
-SOF,Sofia,Bulgaria,Europe
-VAR,Varna,Bulgaria,Europe
 ZAG,"Velika Gorica",Croatia,Europe
-ALC,Alicante,Spain,Europe
-BCN,Barcelona,Spain,Europe
-IBZ,"Ibiza (Eivissa)",Spain,Europe
-MAD,Madrid,Spain,Europe
-AGP,Málaga,Spain,Europe
-PMI,"Palma de Mallorca",Spain,Europe
-SCQ,"Santiago de Compostela",Spain,Europe
-BOD,Bordeaux/Mérignac,France,Europe
-TLS,Toulouse/Blagnac,France,Europe
-,Lipetsk,Russia,Europe
-LFLL,"Colombier-Saugnieu,France,Europe
-LFML,"Marignane,France,Europe
-LFMN,"Nice,France,Europe
-LFPG,"Paris (Roissy-en-France,France,Europe
-LFPO,"Paris (Orly,France,Europe
-BSL,Saint-Louis,France,Europe
-ATH,Spata-Artemida,Greece,Europe
-HER,Heraklion,Greece,Europe
-SKG,Thessaloniki,Greece,Europe
-BUD,Budapest,Hungary,Europe
 ZIA,Moscow,Russia,Europe
-BRI,Bari,Italy,Europe
-BDS,Brindisi,Italy,Europe
-CTA,Catania,Italy,Europe
-PMO,Palermo,Italy,Europe
-CAG,Cagliari,Italy,Europe
-MXP,"Ferno (VA)",Italy,Europe
-BGY,"Orio al Serio (BG)",Italy,Europe
-TRN,"Caselle Torinese (TO)",Italy,Europe
-GOA,"Genova (GE)",Italy,Europe
-BLQ,Bologna,Italy,Europe
-VRN,"Caselle (VR)",Italy,Europe
-VCE,"Venezia (VE)",Italy,Europe
-FCO,Rome,Italy,Europe
-NAP,Napoli,Italy,Europe
-PSA,"Pisa (PI)",Italy,Europe
-LJU,"Zgornji Brnik",Slovenia,Europe
-PRG,Prague,"Czech Republic",Europe
-MLA,Valletta,Malta,Europe
-VIE,Vienna,Austria,Europe
-FAO,Faro,Portugal,Europe
-FNC,Funchal,Portugal,Europe
-PDL,"Ponta Delgada",Portugal,Europe
-OPO,Porto,Portugal,Europe
-LIS,Lisbon,Portugal,Europe
-SJJ,Sarajevo,"Bosnia and Herzegovina",Europe
-OTP,Otopeni,Romania,Europe
-GVA,Geneva,Switzerland,Europe
 ZRH,Zurich,Switzerland,Europe
-SKP,Ilinden,"North Macedonia",Europe
-GIB,Gibraltar,Gibraltar,Europe
-BEG,Belgrade,Serbia,Europe
-TGD,Podgorica,Montenegro,Europe
-BTS,Bratislava,Slovakia,Europe
-PLS,Providenciales,"Turks and Caicos Islands","North America"
-LRM,"La Romana","Dominican Republic","North America"
-PUJ,"Punta Cana","Dominican Republic","North America"
-SDQ,"Santo Domingo","Dominican Republic","North America"
-GUA,"Guatemala City",Guatemala,"North America"
-KIN,Kingston,Jamaica,"North America"
-CZM,Cozumel,Mexico,"North America"
-DGO,Durango,Mexico,"North America"
-GDL,Guadalajara,Mexico,"North America"
-MID,Mérida,Mexico,"North America"
-MEX,"Ciudad de México",Mexico,"North America"
-MTY,Monterrey,Mexico,"North America"
-MZT,Mazatlàn,Mexico,"North America"
-PVR,"Puerto Vallarta",Mexico,"North America"
-SJD,"San José del Cabo",Mexico,"North America"
-TIJ,Tijuana,Mexico,"North America"
-CUN,Cancún,Mexico,"North America"
-PTY,Tocumen,Panama,"North America"
-LIR,Liberia,"Costa Rica","North America"
-SJO,"San José (Alajuela)","Costa Rica","North America"
-SAL,"San Salvador (San Luis Talpa)","El Salvador","North America"
-PAP,Port-au-Prince,Haiti,"North America"
-HAV,Havana,Cuba,"North America"
-VRA,Matanzas,Cuba,"North America"
-GCM,"George Town","Cayman Islands","North America"
-NAS,Nassau,Bahamas,"North America"
-BZE,"Belize City",Belize,"North America"
-PPT,Papeete,"French Polynesia",Oceania
-VLI,"Port Vila",Vanuatu,Oceania
-AKL,Auckland,"New Zealand",Oceania
-CHC,Christchurch,"New Zealand",Oceania
-WLG,Wellington,"New Zealand",Oceania
-ANC,Anchorage,"United States","North America"
-GUM,Hagåtña,Guam,Oceania
-PHNL,"Honolulu,"United States","North America"
-OGG,Kahului,"United States","North America"
-AEP,"Buenos Aires",Argentina,"South America"
-EZE,"Buenos Aires (Ezeiza)",Argentina,"South America"
-BEL,Belém,Brazil,"South America"
-BSB,Brasília,Brazil,"South America"
-CNF,"Belo Horizonte",Brazil,"South America"
-MAO,Manaus,Brazil,"South America"
-FLN,Florianópolis,Brazil,"South America"
-FOR,Fortaleza,Brazil,"South America"
-GIG,"Rio De Janeiro",Brazil,"South America"
-GRU,"São Paulo",Brazil,"South America"
-BPS,"Porto Seguro",Brazil,"South America"
-SSA,Salvador,Brazil,"South America"
-VIX,Vitória,Brazil,"South America"
-SCL,Santiago,Chile,"South America"
-GYE,Guayaquil,Ecuador,"South America"
-ASU,Asunción,Paraguay,"South America"
-AGT,"Ciudad del Este",Paraguay,"South America"
-ESG,"Mariscal Estigarribia",Paraguay,"South America"
-BOG,Bogota,Colombia,"South America"
-VVI,"Santa Cruz",Bolivia,"South America"
-PBM,Zandery,Suriname,"South America"
-CAY,Matoury,"French Guiana","South America"
-LIM,Lima,Peru,"South America"
-CUZ,Cusco,Peru,"South America"
-MVD,"Ciudad de la Costa",Uruguay,"South America"
-BLA,Barcelona,Venezuela,"South America"
-CCS,Maiquetía,Venezuela,"South America"
-FDF,Fort-de-France,Martinique,"North America"
-PTP,Pointe-à-Pitre,Guadeloupe,"North America"
-SJU,"San Juan","Puerto Rico","North America"
-UVF,"Vieux Fort","Saint Lucia","North America"
-AUA,Oranjestad,Aruba,"North America"
-BON,Kralendijk,"Caribbean Netherlands","North America"
-CUR,Willemstad,Curaçao,"North America"
-SXM,"Sint Maarten","Sint Maarten","North America"
-KBP,Boryspil,Ukraine,Europe
-LWO,Lviv,Ukraine,Europe
-LED,"St. Petersburg",Russia,Europe
-MSQ,Minsk,Belarus,Europe
-KJA,Krasnoyarsk,Russia,Europe
-OVB,Novosibirsk,Russia,Europe
-AER,Sochi,Russia,Europe
-POM,"Port Moresby","Papua New Guinea",Oceania
